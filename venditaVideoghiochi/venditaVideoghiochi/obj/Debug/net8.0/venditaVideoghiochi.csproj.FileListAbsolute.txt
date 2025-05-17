@@ -1,0 +1,14 @@
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\bin\Debug\net8.0\venditaVideoghiochi.exe
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\bin\Debug\net8.0\venditaVideoghiochi.deps.json
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\bin\Debug\net8.0\venditaVideoghiochi.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\bin\Debug\net8.0\venditaVideoghiochi.dll
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\bin\Debug\net8.0\venditaVideoghiochi.pdb
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.dll
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\refint\venditaVideoghiochi.dll
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.pdb
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\ref\venditaVideoghiochi.dll

@@ -1,0 +1,101 @@
+Titolo|Piattaforma|Genere|Anno|VenditeInMilioni
+Starfield|Xbox Series X|Avventura|1994|230.8
+Hades|Multi|Avventura|2005|217.4
+Ghost of Tsushima|PS4|Avventura|1993|170.6
+Halo Infinite|Xbox Series X|Simulazione|2021|262.1
+Elden Ring|PC|RPG|2004|247.8
+Tetris|PS4|Puzzle|2024|183.9
+Super Mario Odyssey|Switch|Avventura|1997|49.0
+Splatoon 3|PC|Sport|2004|291.1
+Starfield 4|Multi|Sport|1994|10.1
+Gran Turismo 7|PC|Avventura|2025|3.8
+Super Smash Bros. Ultimate|Multi|Platform|2009|244.2
+Call of Duty: Modern Warfare|PS5|Platform|2011|25.9
+GTA V|PC|Azione|2019|29.0
+Assassin's Creed Valhalla|Xbox Series X|Avventura|2010|56.6
+Gran Turismo 7 2|PS5|Shooter|1996|156.1
+The Sims 4|Xbox One|Shooter|1998|278.4
+PUBG|PC|Sandbox|2017|67.2
+Tetris 3|PC|Avventura|1993|102.0
+Death Stranding|PC|Azione|1997|170.8
+Stardew Valley|Xbox One|RPG|2016|107.7
+Resident Evil 4|PS5|Shooter|2008|237.7
+FIFA 21|Switch|Puzzle|2023|183.8
+Apex Legends|PS4|Sandbox|1994|165.2
+Hades 5|PC|Avventura|2023|7.7
+Hogwarts Legacy|PC|Simulazione|2025|28.6
+League of Legends|Xbox Series X|RPG|2018|59.3
+Halo Infinite 2|Switch|Sandbox|1988|38.6
+Animal Crossing: New Horizons|Switch|Avventura|1999|177.8
+Fortnite|Xbox One|Sandbox|2003|297.5
+Fortnite 5|Xbox Series X|Simulazione|1998|7.5
+Cyberpunk 2077|PS4|Battle Royale|2020|5.6
+Tetris 2|PC|Platform|2024|31.4
+Elden Ring 4|PS5|Avventura|2015|164.7
+Hogwarts Legacy 5|Xbox One|Sandbox|1999|145.7
+Animal Crossing: New Horizons 4|Multi|Sport|2017|51.4
+Tetris 2|Multi|Avventura|1986|239.9
+Hogwarts Legacy 2|Xbox One|Avventura|1988|75.6
+Overwatch|Xbox One|Puzzle|1995|299.9
+Fall Guys|Xbox One|Platform|2019|69.4
+Forza Horizon 5|PC|Platform|1995|225.7
+Forza Horizon 5 2|Xbox Series X|Battle Royale|1988|118.4
+Bayonetta 3|Switch|Sandbox|2020|46.3
+Metroid Dread|Xbox One|Shooter|2000|163.3
+Dead Cells|PS4|Platform|2002|184.1
+Fortnite 1|Xbox Series X|Avventura|2002|269.7
+Call of Duty: Modern Warfare 1|Xbox Series X|Shooter|2013|113.1
+Ghost of Tsushima 4|Switch|Battle Royale|2010|138.4
+Celeste|PS4|Avventura|2001|274.2
+Forza Horizon 5 4|PC|Battle Royale|1997|271.0
+The Legend of Zelda: Breath of the Wild|Switch|Simulazione|1989|113.5
+Minecraft|PC|Azione|1993|284.1
+Bayonetta 3 3|Xbox Series X|Puzzle|2012|27.5
+Persona 5|Multi|Shooter|1991|266.4
+Wii Sports|PS4|Sport|1993|170.1
+Call of Duty: Modern Warfare 1|Switch|Sport|2022|109.3
+Street Fighter 6|PS4|Shooter|2009|247.1
+FIFA 21 2|Xbox Series X|Battle Royale|2018|122.4
+Wii Sports 5|PC|RPG|2016|168.4
+Fire Emblem Engage|PS5|Battle Royale|1991|30.2
+It Takes Two|PS4|Battle Royale|2020|116.5
+Splatoon 3 4|Switch|Battle Royale|1989|203.4
+Stardew Valley 4|PC|Sandbox|2006|111.1
+Valorant|Switch|Sport|1994|124.6
+No Man's Sky|PS4|RPG|2008|209.0
+Baldur's Gate 3|Xbox One|Puzzle|2012|146.9
+Starfield 5|Switch|RPG|2013|143.5
+Super Smash Bros. Ultimate 5|Xbox Series X|Shooter|2010|10.3
+GTA V 3|Xbox One|Simulazione|2004|18.5
+Diablo IV|PC|Battle Royale|2004|240.0
+It Takes Two 1|PC|Battle Royale|2013|140.3
+GTA V 3|Xbox One|Battle Royale|1997|116.7
+Dead Cells 1|PS5|Avventura|2013|267.7
+Bayonetta 3 4|PS5|Avventura|1985|82.0
+Halo Infinite 2|Switch|RPG|2002|296.1
+The Sims 4 3|PS4|Avventura|2001|86.3
+Fire Emblem Engage 4|Multi|RPG|2006|88.6
+It Takes Two 2|PS5|RPG|2000|67.9
+Tetris 1|Xbox Series X|Avventura|2022|14.1
+Among Us|Xbox Series X|Simulazione|2004|10.8
+Rocket League|PS4|Battle Royale|2012|205.1
+Fortnite 3|Xbox One|Sport|2003|74.6
+Stardew Valley 1|Xbox Series X|Sport|2002|24.0
+Elden Ring 3|PS4|RPG|1995|256.6
+Tetris 2|PS5|Puzzle|2020|152.8
+Final Fantasy VII Remake|Switch|Simulazione|1999|264.6
+Dead Cells 2|PS5|Sport|2024|62.6
+Hogwarts Legacy 4|Xbox One|RPG|2008|257.2
+GTA V 2|Multi|Avventura|1999|61.4
+Animal Crossing: New Horizons 2|PS4|Sport|1985|233.4
+Gran Turismo 7 2|PS4|Battle Royale|2021|283.6
+Assassin's Creed Valhalla 3|PS5|Puzzle|2000|182.8
+Fortnite 1|PC|Azione|2024|54.7
+God of War|Multi|Sandbox|1988|189.9
+Gran Turismo 7 5|Multi|Battle Royale|2025|263.1
+Forza Horizon 5 3|Xbox Series X|Simulazione|1996|112.9
+Street Fighter 6 3|PC|RPG|2009|27.2
+Overwatch 3|Xbox Series X|Platform|2015|217.1
+Bayonetta 3 1|Multi|Simulazione|2025|112.4
+Animal Crossing: New Horizons 3|Xbox Series X|Battle Royale|1992|222.3
+Animal Crossing: New Horizons 4|Multi|Sandbox|1995|99.3
