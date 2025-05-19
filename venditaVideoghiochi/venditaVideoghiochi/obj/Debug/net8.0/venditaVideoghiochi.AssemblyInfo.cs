@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("venditaVideoghiochi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33d5dbbd4a12b4e8b709b9cb1c394b5fb83e8536")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2800fb6751c9ca0ad618e4811cddff74d1d3c160")]
 [assembly: System.Reflection.AssemblyProductAttribute("venditaVideoghiochi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("venditaVideoghiochi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

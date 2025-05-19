@@ -1,0 +1,7 @@
+Xbox Series X = 17
+Multi = 12
+PS4 = 15
+PC = 19
+Switch = 13
+PS5 = 11
+Xbox One = 13

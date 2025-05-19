@@ -12,3 +12,4 @@ C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\vendita
 C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.pdb
 C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.genruntimeconfig.cache
 C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\ref\venditaVideoghiochi.dll
+C:\Users\caibugatti.ruben\Desktop\venditaVideogiochi\venditaVideoghiochi\venditaVideoghiochi\obj\Debug\net8.0\venditaVideoghiochi.sourcelink.json

@@ -39,16 +39,55 @@ void giochi(List<string> vendite)
 void generi(List<string> vendite)
 {
     string path = "generi.txt";
-    StreamWriter w = new StreamWriter(path, true);
+    StreamWriter w = new StreamWriter(path);
+    List<string> generi = new List<string>();
     foreach (string v in vendite)
     {
         string genere = v.Split('|')[2];
-        List <string> generi=new List<string>();
         if (!generi.Contains(genere))
         {
             w.WriteLine(genere);
             generi.Add(genere);
         }
+    }
+    w.Close();
+}
+void genere(List<string> vendite)
+{
+    string path = "giochi_genere.txt";
+    StreamWriter w = new StreamWriter(path);
+    Console.WriteLine("Dimmi il genere");
+    string genereU = Console.ReadLine();
+    foreach (string v in vendite)
+    {
+        string genere = v.Split('|')[2];
+        if (genere == genereU)
+        {
+            w.WriteLine(v.Split('|')[0]);
+        }
+    }
+    w.Close();
+}
+void conteggio(List<string> vendite)
+{
+    List <string> piattaforme=new List<string>();
+    foreach (string v in vendite)
+    {
+        if (!piattaforme.Contains(v.Split('|')[1]))
+        {
+            piattaforme.Add(v.Split('|')[1]);
+        }
+    }
+    int[] quantità=new int[piattaforme.Count];
+    foreach (string v in vendite)
+    {
+        quantità[piattaforme.IndexOf(v.Split('|')[1])]++;
+    }
+    string path = "conteggio_piattaforme.txt";
+    StreamWriter w = new StreamWriter(path);
+    foreach(string v in piattaforme)
+    {
+        w.WriteLine(v + " = " + quantità[piattaforme.IndexOf(v)]);
     }
     w.Close();
 }
@@ -68,3 +107,5 @@ float incassi=incasso(vendite);
 Console.WriteLine(incassi);
 giochi(vendite);
 generi(vendite);
+genere(vendite);
+conteggio(vendite);
